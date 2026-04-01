@@ -5,6 +5,8 @@ theme = 'hugo-book'
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+uglyURLs = true
+
 [params]
   BookTitle = "Ajay's blog"
   BookTheme = 'auto'
