@@ -1,0 +1,15 @@
+baseURL = 'https://sairpa.github.io/blog/'
+languageCode = 'en-us'
+title = "Ajay's blog"
+theme = 'hugo-book'
+
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+[params]
+  BookTitle = "Ajay's blog"
+  BookTheme = 'auto'
+  BookSearch = true
+  BookSection = 'notes'
+
+[markup.goldmark.renderer]
+  unsafe = true
