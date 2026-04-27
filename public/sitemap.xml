@@ -2,13 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/notes/graphics-programming/introduction.html</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/notes/graphics-programming/index.html</loc>
-  </url><url>
     <loc>http://localhost:1313/blog/index.html</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/notes/graphics-programming/new-note.html</loc>
+    <loc>http://localhost:1313/blog/notes/webgpu-vanguard/webgpu-vanguard.html</loc>
   </url><url>
     <loc>http://localhost:1313/blog/notes/index.html</loc>
   </url>
